@@ -1,2 +1,2 @@
-# cassandra
-This is an official mirror branch
+# Cassandra
+I never thought of this branch as accomplishing anything, it was always there to fit in with RatuDB.

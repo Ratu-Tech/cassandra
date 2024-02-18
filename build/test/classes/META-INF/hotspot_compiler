@@ -1,0 +1,2 @@
+inline org.apache.cassandra.simulator.systems.InterceptingMonitors$MonitorState::removeOneWaitingOn (Lorg.apache.cassandra.simulator.systems.InterceptingMonitors.WaitListAccessor;Lorg.apache.cassandra.simulator.RandomSource;)Lorg.apache.cassandra.simulator.systems.InterceptingMonitors.InterceptedMonitorWait;
+inline org.apache.cassandra.test.microbench.AbstractTypeByteSourceDecodingBench::randomPeekableBytes ()Lorg.apache.cassandra.utils.bytecomparable.ByteSource.Peekable;

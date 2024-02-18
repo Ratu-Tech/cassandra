@@ -1,0 +1,4 @@
+package org.apache.cassandra.test.microbench.btree.generated;
+public class AtomicBTreePartitionUpdateBench_ConcurrentUpdates_jmhType extends AtomicBTreePartitionUpdateBench_ConcurrentUpdates_jmhType_B3 {
+}
+

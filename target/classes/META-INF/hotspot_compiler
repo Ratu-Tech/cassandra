@@ -1,0 +1,10 @@
+dontinline org.apache.cassandra.io.util.RebufferingInputStream::readPrimitiveSlowly (I)J
+inline org.apache.cassandra.db.NativeDecoratedKey::address ()J
+inline org.apache.cassandra.db.NativeDecoratedKey::length ()I
+inline org.apache.cassandra.db.rows.UnfilteredSerializer::serializeRowBody (Lorg.apache.cassandra.db.rows.Row;ILorg.apache.cassandra.db.rows.SerializationHelper;Lorg.apache.cassandra.io.util.DataOutputPlus;)V
+inline org.apache.cassandra.service.reads.repair.RowIteratorMergeListener::applyToPartition (ILjava.util.function.Consumer;)V
+inline org.apache.cassandra.utils.BloomFilter::indexes (Lorg.apache.cassandra.utils.IFilter.FilterKey;)[J
+inline org.apache.cassandra.utils.BloomFilter::setIndexes (JJIJ[J)V
+inline org.apache.cassandra.utils.ByteBufferUtil::compare (Ljava.nio.ByteBuffer;[B)I
+inline org.apache.cassandra.utils.ByteBufferUtil::compare ([BLjava.nio.ByteBuffer;)I
+inline org.apache.cassandra.utils.ByteBufferUtil::compareUnsigned (Ljava.nio.ByteBuffer;Ljava.nio.ByteBuffer;)I

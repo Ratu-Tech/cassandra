@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.13
+Created-By: 11.0.18+9-LTS-195 (Oracle Corporation)
+Built-By: Benedict Elliott Smith
+Premain-Class: org.apache.cassandra.simulator.asm.InterceptAgent
+Agent-Class: org.apache.cassandra.simulator.asm.InterceptAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
